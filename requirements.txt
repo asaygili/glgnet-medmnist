@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision
+timm>=1.0
+medmnist>=3.0
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
